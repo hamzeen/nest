@@ -12,7 +12,7 @@ structure and purpose
 1. Clone repo
 2. Run `npm install`
 3. Run `npm run start`
-4. Visit http://localhost:1337/
+4. Visit http://localhost:3000
 
 ## License
 
