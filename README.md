@@ -1,6 +1,6 @@
-# blog using Node.js & MD
+# NEST
 
-structure and purpose
+My brainchild for a super simple blogigng platform. It's Simple; It's Affordable & It Scales seamlessly.
 
 ## Requirements
 
