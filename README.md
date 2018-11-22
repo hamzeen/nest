@@ -2,7 +2,7 @@
 
 My brainchild for a super simple blogigng platform. It's Simple; It's Affordable & It Scales seamlessly. For this first first proof of concept it adapts markdwon (.MD) files(MD) as its datasource which are found inside the blog folder.
 
-Long story short, somewhere in 2014, I stumbled upon the idea to eliminate all the cumbersome parts associated with database backed blogging platforms.
+Long story short, somewhere in 2014, I stumbled upon the idea to eliminate all the cumbersome parts associated with database backed blogging platforms. Come April 2018, here we are with NEST! From ideation to reality.
 
 ## Requirements
 
