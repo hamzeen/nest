@@ -1,6 +1,6 @@
 # NEST
 
-My brainchild for a super simple blogigng platform. It's Simple; It's Affordable & It Scales seamlessly. For this first first proof of concept it adapts markdwon (.MD) files as its datasource which are found inside the blog folder.
+My brainchild for a super simple blogging platform. It's Simple; It's Affordable & It Scales seamlessly. For this first first proof of concept it adapts markdwon (.MD) files as its datasource which are found inside the blog folder.
 
 Long story short, somewhere in 2014, I stumbled upon the idea to eliminate all the cumbersome parts associated with database backed blogging platforms. Fast forward to 10th April 2018, a brand new blogging platform was born. From ideation to reality, that is the story of NEST!
 
