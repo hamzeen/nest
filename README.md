@@ -16,6 +16,11 @@ Long story short, somewhere in 2014, I stumbled upon the idea to eliminate all t
 3. Run `npm run start`
 4. Visit http://localhost:3000
 
+## Sources of Inspiration
+* [node-blog](https://github.com/sbstjn/node-blog)
+* [markdown front matter](http://srchea.com/light-weight-blog-generator-with-node-js-and-markdown)
+* [sitepoint](https://github.com/sitepoint-editors/MicroBlog)
+
 ## License
 
 The MIT License (MIT)
